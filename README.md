@@ -93,6 +93,8 @@ Prediction Process Output
 The StockPredictor class provides the following outputs:
 
 ### Graphical Comparison of Models:
+![image](https://github.com/mmaurya2024/SC_Final_Project_Stock_Prediction/assets/161163003/05c4e1ae-28bf-4a83-8867-234cf035b006)
+
 
 ### RMSE Error Values:
 ```python
