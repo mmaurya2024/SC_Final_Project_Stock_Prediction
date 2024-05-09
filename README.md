@@ -33,8 +33,9 @@ def build_lstm_model(self):
         Dense(1)
     ])
     self.lstm_model.compile(optimizer="adam", loss="mean_squared_error")
+```
 
-K-Nearest Neighbors (KNN)
+# K-Nearest Neighbors (KNN)
 KNN is a simple, non-parametric model used for classification and regression. Here, it is used to predict future stock prices based on the historical data points that are closest to the target.
 
 Architecture:
